@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=T3 Code
+Comment=Minimal web GUI for coding agents
+Exec=t3-code %U
+Terminal=false
+Type=Application
+Icon=t3-code
+Categories=Development;IDE;
+StartupWMClass=t3code
